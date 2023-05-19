@@ -23,6 +23,23 @@ Teacher for the Back-End (Node.js, Express, MongoDB, Socket.io) and Front-End (R
 
 Skills: *JavaScript · React.js · REST APIs · Node.js · HTML · CSS · Git · GitHub · MongoDB · Redux.js · Bootstrap · React Native*
 
+### Oct 2018 - Dec 2020 -- Senior Full Stack Engineer at Modus Create -- Uruguay (USA Clients)
+I worked for a client in the United States on a product used by millions of users in the educational field, including universities, high schools, educators, and students.
+
+We worked remotely with a team of various nationalities, communicating in English, and using the Scrum framework to organize tasks and meetings.
+
+Results and achievements:
+
+Implementation of an updated version of the platform that allows intelligently matching students with educational institutions. We used technologies such as React.js, GraphQL, ElasticSearch, Node.js and others that allowed us to achieve a notable improvement in the performance of the platform.
+
+Implementation from scratch of an updated version of a complex platform for the creation and management of career plans, which we finished on time and had a significant impact, attracting investment and new clients, we used React.js, TypeScript, Node.js and our own SDK to communicate with the PostgreSQL and MySQL databases.I worked for a client in the United States on a product used by millions of users in the educational field, including universities, high schools, educators, and students. We worked remotely with a team of various nationalities, communicating in English, and using the Scrum framework to organize tasks and meetings. Results and achievements: 
+
+Implementation of an updated version of the platform that allows intelligently matching students with educational institutions. We used technologies such as React.js, GraphQL, ElasticSearch, Node.js and others that allowed us to achieve a notable improvement in the performance of the platform.
+
+Implementation from scratch of an updated version of a complex platform for the creation and management of career plans, which we finished on time and had a significant impact, attracting investment and new clients, we used React.js, TypeScript, Node.js and our own SDK to communicate with the PostgreSQL and MySQL databases.
+
+Skills: *TypeScript · JavaScript · React.js · REST APIs · GraphQL · Node.js · Amazon Web Services (AWS) · HTML · CSS · Jest · Git · GitHub · MongoDB · ElasticSearch · Redux.js · Scrum*
+
 ### Jan 2016 - Oct 2018 -- Senior Software Engineer at Endava -- Uruguay (USA Clients)
 #### Jan 2016 - Jul 2017
 Full Stack developer in different projects of a leading US corporation in medical services.
